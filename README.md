@@ -16,6 +16,8 @@ These will need to be modelled and textured in your preferred tools (Blender is 
 
 We’ve included full body male avatar template files and a sample avatar as a starting point and reference.
 
+https://drive.google.com/drive/folders/1YjJU7YxmpEdlR9wWbPOFSOyXaEWreIBZ?usp=sharing
+
 ## Item
 
 ![Untitled](https://user-images.githubusercontent.com/33485538/170459802-758a4fb8-813d-45a3-a32d-e0fa25286902.png)
