@@ -23,7 +23,7 @@ We’ve included full body male avatar template files and a sample avatar as a s
 ## Avatar Style
 ![image](https://user-images.githubusercontent.com/33485538/170460055-4b619fd7-2c7b-487a-9919-1d86861cc788.png)
 
-![image](https://user-images.githubusercontent.com/33485538/170460147-ca44c9d4-9069-4c4e-a251-8bbc19d55c6b.png)
+![Discord1K_outfits_transp](https://user-images.githubusercontent.com/33485538/170460593-fd81e5a8-1e9a-4a2e-9e35-6192fd2204f2.png)
 
 ![image_2077_03](https://user-images.githubusercontent.com/33485538/170460163-bd984e4a-617b-4d96-94b4-9ebc2d503777.png)
 
@@ -48,3 +48,4 @@ The total time spent on this test should be no more than 2 days.
 ## Submission
 
 To submit your work please upload the relevant files (FBXs, Substance, Blender files, Unreal files, TGAs) to WeTransfer or GDrive. Once ready please share with Raoul.
+ 
