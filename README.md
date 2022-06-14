@@ -42,6 +42,7 @@ The total time spent on this test should be no more than 2 days.
 
 - Submitted as an fbx, glb/gltf or equivalent 3D file format
 - Clean topology
+- [RPM Technical Guidelines](https://wolf3d.notion.site/Technical-Requirements-7101a8f6444946958dd536841b97245d)
 
 ## Avatar Modelling Guidelines
 
